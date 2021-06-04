@@ -1,6 +1,5 @@
 ![Github](https://raw.githubusercontent.com/aditya269/aditya269/master/user%20(2).gif)
 
-  ![counter](https://en8l8xuwaoz0mtq.m.pipedream.net)
   
 ### Hey, folks! 👋
 
