@@ -13,10 +13,10 @@
 
 
 - ⚡ Fun fact: Sometimes I fix the production bug by commenting the code!
-- 
+  <img src="https://github-readme-stats.vercel.app/api?username=aditya269&&show_icons=true&count_private=true&theme=radical"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=aditya269&theme=radical"/>|
+  |---|---|
 
-   ###   Hello World! :yellow_heart:
-<img alt="GIF" src="https://i.pinimg.com/originals/9e/a7/2e/9ea72ef078139ced289852e8a4ea0c5c.gif" width = 200/>
+
 
 <hr>
 
