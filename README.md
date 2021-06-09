@@ -1,7 +1,9 @@
 ![Github](https://raw.githubusercontent.com/aditya269/aditya269/master/user%20(2).gif)
 
   
-### Hey, folks! 👋
+### Hi there 👋 I'm Aditya
+
+[![Linkedin Badge](https://img.shields.io/badge/-aditya-blue?style=plastic-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aditya-maharana-a9094b1a4/)](https://www.linkedin.com/in/aditya-maharana-a9094b1a4/)
 
 - 🔭 I’m currently working on my personal projects based on Python and Django
 - 🌱 I’m currently learning and discussing emerging technologies! I'm always interested in learning about new tech.
@@ -11,6 +13,7 @@
 
 
 - ⚡ Fun fact: Sometimes I fix the production bug by commenting the code!
+- 
 
    ###   Hello World! :yellow_heart:
 <img alt="GIF" src="https://i.pinimg.com/originals/9e/a7/2e/9ea72ef078139ced289852e8a4ea0c5c.gif" width = 200/>
