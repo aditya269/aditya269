@@ -13,7 +13,7 @@
 
 
 - ⚡ Fun fact: Sometimes I fix the production bug by commenting the code!
-  <img src="https://github-readme-stats.vercel.app/api?username=aditya269&&show_icons=true&count_private=true&theme=radical"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=aditya269&theme=radical"/>|
+  <img src="https://github-readme-stats.vercel.app/api?username=aditya269&&show_icons=true&count_private=true&theme=radical">|<img src="https://github-readme-streak-stats.herokuapp.com/?user=aditya269&theme=radical">
   
 
 
