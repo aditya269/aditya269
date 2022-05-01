@@ -10,6 +10,7 @@
 - 👯 I’m looking to collaborate on open source projects based on web development.
 - 🤔 I’m looking for help in projects based on ReactJS and TypeScript.
 - 💬 Ask me about Frontend development based projects.
+- hello
 
 
 - ⚡ Fun fact: Sometimes I fix the production bug by commenting the code!
